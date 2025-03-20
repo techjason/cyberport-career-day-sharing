@@ -98,7 +98,21 @@ highlighter: shiki
 ---
 
 <div class="w-full h-full">
+  <img src="/goodnotes.jpg"  alt="scholar" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
   <img src="/hkumed.jpeg"  alt="scholar" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/jason-bento.png"  alt="scholar" class="h-full w-full object-cover" />
 </div>
 <div class="qr-code"></div>
 
@@ -112,7 +126,55 @@ highlighter: shiki
 ---
 
 <div class="w-full h-full flex items-center justify-center">
+  <img src="/notes-1.png"  alt="factrecall" class="h-[450px] object-cover mx-auto my-auto" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full flex items-center justify-center">
+  <img src="/notes-2.png"  alt="factrecall" class="h-[450px] object-cover mx-auto my-auto" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full flex items-center justify-center">
   <img src="/memo-hero.png"  alt="Version 1" class="h-[450px] object-cover mx-auto my-auto" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full flex items-center justify-center">
+  <iframe
+    src="https://www.instagram.com/reel/DA-ZyTRiaAw/embed/"
+    class="w-[500px] h-[600px]"
+    frameborder="0"
+    scrolling="no"
+    allowtransparency="true"
+  ></iframe>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="w-[400px] h-[500px] flex items-center justify-center mx-auto">
+  <iframe
+    src="https://www.youtube.com/embed/Xr7d7LzqcTc"
+    class="w-full h-full"
+    frameborder="0"
+    allowfullscreen
+  ></iframe>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/speechon.png"  alt="Version 1" class="h-full w-full object-cover" />
 </div>
 <div class="qr-code"></div>
 
@@ -227,7 +289,7 @@ highlighter: shiki
 
 # Impact and Reach
 
--   Over 180,000 users from 30+ disciplines
+-   Over 300,000 users from 30+ disciplines
 
 -   Students from institutions like Oxford and Harvard
 
@@ -268,50 +330,6 @@ highlighter: shiki
   <img src="/details.png"  alt="details" class="h-full w-full object-cover" />
 </div>
 <div class="qr-code"></div>
-
-<div class="qr-code"></div>
-
----
-
-# memo.cards
-
-<div class="w-full h-full">
-  <img src="/mrr.png"  alt="mrr" class="h-full w-full object-cover" />
-</div>
-<div class="qr-code"></div>
-
----
-
-# I recommend ignoring everything else and just focus on LTV:CAC
-
-<div v-click>
-  <div class="bg-gray-100 p-4 rounded-lg mb-4">
-    <h3 class="font-bold">LTV (Lifetime Value)</h3>
-    <p>Revenue per customer over their entire relationship with your business</p>
-  </div>
-</div>
-
-<div v-click>
-  <div class="bg-gray-100 p-4 rounded-lg mb-4">
-    <h3 class="font-bold">CAC (Customer Acquisition Cost)</h3>
-    <p>Total cost to acquire one customer (marketing, sales, etc.)</p>
-  </div>
-</div>
-
----
-
-# I recommend ignoring everything else and just focus on LTV:CAC
-
-<div>
-  <div class="bg-orange-100 p-4 rounded-lg">
-    <h3 class="font-bold">Why It Matters</h3>
-    <ul class="list-disc pl-4">
-      <li>Higher ratio = ability to outspend competitors</li>
-      <li>Predicts how big your business can scale</li>
-      <li>Creates sustainable competitive advantage</li>
-    </ul>
-  </div>
-</div>
 
 <div class="qr-code"></div>
 
@@ -406,66 +424,6 @@ highlighter: shiki
 
 ---
 
-<div>
-  <div class="bg-cyan-100 p-4 pt-1 rounded-lg">
-    <h3 class="font-bold">9. Educate & Elevate During Onboarding</h3>
-    <ul class="list-disc pl-4">
-      <li>Not a time to bore users with features</li>
-      <li>Teach them, you're the expert</li>
-    </ul>
-  </div>
-</div>
-
-<div v-click>
-  <div class="bg-emerald-100 p-4 pt-1 rounded-lg mb-4 mt-5">
-    <h3 class="font-bold">10. Show Paywall After Onboarding</h3>
-    <ul class="list-disc pl-4">
-      <li>60% of subscribers do so during onboarding</li>
-      <li>Others got rich this way, you'll too</li>
-    </ul>
-  </div>
-</div>
-
-<div class="qr-code"></div>
-
----
-
-<div>
-  <div class="bg-violet-100 p-4 pt-1 rounded-lg mb-4">
-    <h3 class="font-bold">11. Stop Adding Features. Make UX Better</h3>
-    <ul class="list-disc pl-4">
-      <li>Best apps? They're easy to use</li>
-      <li>More features isn't always better</li>
-    </ul>
-  </div>
-</div>
-
-<div v-click>
-  <div class="bg-fuchsia-100 p-4 pt-1 rounded-lg">
-    <h3 class="font-bold">12. First 3 Months: Find & Solve Bottlenecks</h3>
-    <ul class="list-disc pl-4">
-      <li>Go top to bottom (App Store → app)</li>
-      <li>Lift conversion rate of every step</li>
-    </ul>
-  </div>
-</div>
-
----
-
-<div>
-  <div class="bg-rose-100 p-4 pt-1 rounded-lg">
-    <h3 class="font-bold">13. 1%+ Subscribe? Now Bring More Users</h3>
-    <ul class="list-disc pl-4">
-      <li>You validated your app idea</li>
-      <li>Now it's time to pour more water in</li>
-    </ul>
-  </div>
-</div>
-
-<div class="qr-code"></div>
-
----
-
   <h3 class="font-bold">"Our app revolutionizes the way you do..."</h3>
   <p v-click>perhaps instead tell what the app does</p>
   <p v-click>what job does it automates</p>
@@ -477,39 +435,6 @@ highlighter: shiki
   <p v-click class="font-bold">Nothing less</p>
 
 <div class="qr-code"></div>
-
----
-
-<strong>The Bootstrap vs VC Debate</strong>
-
-| Category         | Bootstrapped                                                                      | VC-Funded                        |
-| ---------------- | --------------------------------------------------------------------------------- | -------------------------------- |
-| **Control**      | Complete autonomy over decisions                                                  | Answerable to investors & board  |
-| **Timeline**     | Can take 10+ years to build                                                       | Typically 5-7 year exit timeline |
-| **Risk**         | Can run multiple projects, pivot freely                                           | All eggs in one basket           |
-| **Examples**     | • Basecamp<br>• Mailchimp<br>• GitHub (initially)<br>• Atlassian (initially)      | Most Silicon Valley startups     |
-| **Growth**       | Organic, revenue-driven                                                           | Rapid scaling, burn rate focus   |
-| **Exit Options** | • Keep running indefinitely<br>• Profitable sale<br>• Optional late-stage funding | Must provide VC-level returns    |
-
-<div class="text-sm mt-4 text-gray-600">
-  *Many successful bootstrapped companies later took funding from a position of strength
-</div>
-
-<div class="qr-code"></div>
-
----
-
-| Category            | Bootstrapped                                                                     | VC-Funded                                         |
-| ------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------- |
-| **Tech Tools**      | • Mailchimp ($12B exit)<br>• Basecamp<br>• Zapier<br>• ConvertKit                | • Slack<br>• Zoom<br>• Notion<br>• Discord        |
-| **E-commerce**      | • Shopify (initially)<br>• Tuft & Needle<br>• MVMT Watches                       | • Amazon<br>• Warby Parker<br>• Dollar Shave Club |
-| **Content/Media**   | • Craigslist<br>• Imgur<br>• Smashing Magazine                                   | • Medium<br>• Substack<br>• Twitter               |
-| **Developer Tools** | • GitHub (initially)<br>• Atlassian (initially)<br>• WooCommerce                 | • GitLab<br>• Vercel<br>• MongoDB                 |
-| **Current Indies**  | • Levels.io (Nomad List)<br>• Pieter Levels (HeyFromFuture)<br>• Daniel Vassallo | • OpenAI<br>• Anthropic<br>• Midjourney           |
-
-<div class="text-sm mt-4 text-gray-600">
-  *Note: Many successful bootstrapped companies later took strategic funding to accelerate growth
-</div>
 
 ---
 
