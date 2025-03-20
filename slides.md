@@ -331,8 +331,6 @@ highlighter: shiki
 </div>
 <div class="qr-code"></div>
 
-<div class="qr-code"></div>
-
 ---
 
 # Key Principles for Building Products
@@ -434,6 +432,106 @@ highlighter: shiki
   <p v-click class="mt-4 font-bold">Nothing more</p>
   <p v-click class="font-bold">Nothing less</p>
 
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/healthmaxx/1.png"  alt="details" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/healthmaxx/2.png"  alt="details" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/healthmaxx/3.png"  alt="details" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full flex items-center justify-center">
+  <img src="/appstore.png"  alt="factrecall" class="h-[450px] object-cover mx-auto my-auto" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="center-xy text-center">
+  <p>Last week we got out app to the #1 in the app store for health & fitness in Hong Kong</p>
+  <h1>Founded by 2 medical students, we built HealthMaxx (健康AI) to increase the world’s “healthspan”—helping people live longer in good health and free from chronic disease.</h1>
+</div>
+
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full flex items-center justify-center">
+  <img src="/Mission2.png"  alt="factrecall" class="h-[450px] object-cover mx-auto my-auto" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/healthmaxx/4.png"  alt="details" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/healthmaxx/5.png"  alt="details" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/healthmaxx/6.png"  alt="details" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/healthmaxx/7.png"  alt="details" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/healthmaxx/8.png"  alt="details" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/healthmaxx/9.png"  alt="details" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/healthmaxx/10.png"  alt="details" class="h-full w-full object-cover" />
+</div>
+<div class="qr-code"></div>
+
+---
+
+<div class="w-full h-full">
+  <img src="/healthmaxx/11.png"  alt="details" class="h-full w-full object-cover" />
+</div>
 <div class="qr-code"></div>
 
 ---
